@@ -1,0 +1,16 @@
+prompt,response
+"Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...","{""reasoning"": ""The text provided is not relevant to the subject matter of this task. The user has not given any information about spam classification or a specific topic."", ""verdict"": 0}"
+Ok lar... Joking wif u oni...,"{""reasoning"": ""This text is clearly not meant to be amusing or funny, and it seems to be mocking the user. There are no positive words or phrases that suggest humor."", ""verdict"": 0}"
+Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's,"{""reasoning"": ""The provided text appears to be a list of information for an upcoming event, but it does not contain any spam-related content or indicators. It seems like a regular sports news article without spam tags. Since the answer is '0', we cannot provide any verdict based on this text.""}"
+U dun say so early hor... U c already then say...,"{""reasoning"": ""The text does not contain any spam characteristics and appears to be normal English."", ""verdict"": 1}"
+"Nah I don't think he goes to usf, he lives around here though","```json
+{
+  ""reasoning"": ""The provided text does not contain any information that suggests the speaker is a spam classifier. It appears to be a neutral statement."",
+  ""verdict"": 0
+}
+```"
+"FreeMsg Hey there darling it's been 3 week's now and no word back! I'd like some fun you up for it still? Tb ok! XxX std chgs to send, £1.50 to rcv","{""reasoning"": ""The text contains non-spam data and does not contain any spam elements."", ""verdict"": 0}"
+Even my brother is not like to speak with me. They treat me like aids patent.,"{""reasoning"": ""This text does not contain any information about an individual's speech patterns or the treatment they receive from their friends."", ""verdict"": 0}"
+As per your request 'Melle Melle (Oru Minnaminunginte Nurungu Vettam)' has been set as your callertune for all Callers. Press *9 to copy your friends Callertune,"{""reasoning"":""The provided text appears to be in a language that is not standard, but I will assume it's Chinese and proceed with the classification."",""verdict"":0}"
+WINNER!! As a valued network customer you have been selected to receivea £900 prize reward! To claim call 09061701461. Claim code KL341. Valid 12 hours only.,"{""reasoning"": ""This text is not relevant to spam classification as it does not contain any information related to spam or fraudulent activities."", ""verdict"": 0}"
+Had your mobile 11 months or more? U R entitled to Update to the latest colour mobiles with camera for Free! Call The Mobile Update Co FREE on 08002986030,"{""reasoning"": ""The text is not suitable as a spam classifier. It does not contain any indication of illegal activity or inappropriate content."", ""verdict"": 1}"
